@@ -31,7 +31,8 @@ int main()
             string nama;
         int matematika;
         int inggris;
-
-
+        string status;
     };
+
+    
 
