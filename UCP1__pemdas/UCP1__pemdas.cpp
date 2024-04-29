@@ -34,5 +34,5 @@ int main()
         string status;
     };
 
-    
+    Kandidat calon[20];
 
