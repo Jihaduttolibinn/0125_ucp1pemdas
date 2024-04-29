@@ -51,4 +51,7 @@ int main()
             calon[i].status = "diterima";
         }
         else {
+            calon[i].status = "ditolak";
+        }
+    }
 
