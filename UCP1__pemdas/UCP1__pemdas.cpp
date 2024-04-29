@@ -30,6 +30,7 @@ int main()
         struct Kandidat
             string nama;
         int matematika;
+        int inggris;
 
 
     };
