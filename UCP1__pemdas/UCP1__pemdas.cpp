@@ -42,3 +42,8 @@ int main()
         cout << "masukkan nilai matematika: ";
         cin >> calon[i].matematika;
 
+        cout << "masukkan nilai bahasa inggris: ";
+        cin >> calon[i].inggris;
+    }
+
+
