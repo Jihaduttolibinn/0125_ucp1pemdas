@@ -25,5 +25,8 @@ int main()
 {
 
     char repeat;
+
+    do {
+        struct Kandidat
 }
 
