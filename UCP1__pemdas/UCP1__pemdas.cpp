@@ -35,4 +35,7 @@ int main()
     };
 
     Kandidat calon[20];
+    for (int i = 0; i < 20; i++) {
+        cout << "masukkan nama: ";
+        cin >> calon[i].nama;
 
