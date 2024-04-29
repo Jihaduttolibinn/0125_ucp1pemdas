@@ -61,3 +61,5 @@ int main()
     cout << "\napakah ingin megulaingi? (y/n): ";
     cin >> repeat;
 } while (repeat == 'y');
+return 0;
+}
