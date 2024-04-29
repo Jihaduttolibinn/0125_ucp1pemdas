@@ -58,4 +58,5 @@ int main()
     for (int i = 0; i < 20; i++) {
         cout << calon[i].nama << "\t" << calon[i].status << endl;
     }
-
+    cout << "\napakah ingin megulaingi? (y/n): ";
+    cin >> repeat;
