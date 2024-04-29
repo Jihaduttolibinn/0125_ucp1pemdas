@@ -46,4 +46,8 @@ int main()
         cin >> calon[i].inggris;
     }
     for (int i = 0; i < 20; i++) {
+        double avg = (calon[i].matematika + calon[i].inggris) / 2.0;
+        if (calon[i].matematika > 80 || avg >= 70) {
+            calon[i].status = "diterima";
+        }
 
