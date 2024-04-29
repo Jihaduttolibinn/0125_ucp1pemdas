@@ -54,4 +54,4 @@ int main()
             calon[i].status = "ditolak";
         }
     }
-
+    cout << "\nName\tStatus\n";
