@@ -27,8 +27,8 @@ int main()
     char repeat;
 
     do {
-        struct Kandidat
-            string nama;
+        struct Kandidat;
+        string nama;
         int matematika;
         int inggris;
         string status;
@@ -60,6 +60,8 @@ int main()
     }
     cout << "\napakah ingin megulaingi? (y/n): ";
     cin >> repeat;
-} while (repeat == 'y');
-return 0;
-}
+
+    while (repeat == 'y');
+
+    return 0;
+};
