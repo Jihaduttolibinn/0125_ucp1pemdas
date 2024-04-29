@@ -29,6 +29,7 @@ int main()
     do {
         struct Kandidat
             string nama;
+        int matematika;
 
 
     };
