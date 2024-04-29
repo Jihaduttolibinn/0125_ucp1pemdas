@@ -50,4 +50,5 @@ int main()
         if (calon[i].matematika > 80 || avg >= 70) {
             calon[i].status = "diterima";
         }
+        else {
 
