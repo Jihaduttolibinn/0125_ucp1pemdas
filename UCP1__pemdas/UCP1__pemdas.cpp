@@ -39,3 +39,6 @@ int main()
         cout << "masukkan nama: ";
         cin >> calon[i].nama;
 
+        cout << "masukkan nilai matematika: ";
+        cin >> calon[i].matematika;
+
